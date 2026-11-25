@@ -2,6 +2,8 @@
 name: kindle-koreader-screensaver
 description: 为 Kindle 上的 KOReader 定制休眠屏保（时间、周历、农历干支、黄历宜忌、天气、鸡汤），生成可直接放进 patches/ 目录的 Lua 补丁并给出安装验证步骤。当用户提到 Kindle 屏保、KOReader 屏保、休眠屏保、screensaver、电子书阅读器待机画面、水墨屏时钟/天气/黄历，或想改屏保上的内容与刷新频率时使用。生成前必须先向用户逐项确认刷新方式、天气天数、鸡汤来源、显示区块、所在城市等选项，不要自行假定。
 agent_created: true
+version: 1.0.0
+license: MIT
 ---
 
 # Kindle KOReader 休眠屏保定制
